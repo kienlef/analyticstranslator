@@ -30,4 +30,4 @@ The top domains for an analytics translater are fluent speaking and understandin
 
 The lecture addresses 15 different key capabilities that fall into the class of analytics, business, and IT know-how.
 
-![Analytics Translator Wheel][https://github.com/kienlef/analyticstranslator/blob/main/results/analytics_translator_wheel.png]
+![Analytics Translator Wheel](https://github.com/kienlef/analyticstranslator/blob/main/results/analytics_translator_wheel.png)
